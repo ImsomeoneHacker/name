@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("/Petsimx/script/main/MENU.lua", true))()
